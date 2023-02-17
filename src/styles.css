@@ -1,0 +1,16 @@
+.demo-charts {
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    margin: auto;
+    margin-top: 36px;
+    min-height: 300px;
+    width: 700px;
+}
+
+.demo-charts sider {
+    background: #f0f0f0;
+    padding: 20px;
+}
+.demo-charts section {
+    padding: 20px;
+}
